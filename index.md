@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Hayley's First GitHub Page
 
-You can use the [editor on GitHub](https://github.com/hayleyzacha/hayleyzacha.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am practicing in GitHub to learn how to use it. This is my first website created on GitHhub.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a college student at Liberty University in Lynchburg, VA. I am a senior studying Web and Mobile Programming. 
 
 ```markdown
 Syntax highlighted code block
